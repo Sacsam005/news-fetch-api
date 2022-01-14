@@ -1,0 +1,206 @@
+{
+  "status": "ok",
+  "totalResults": 70,
+  "articles": [
+    {
+      "source": {"id": "cnn", "name": "CNN"},
+      "author": "Matt Egan",
+      "title": "Goldman Sachs urges employees to work remotely until February amid Omicron wave - CNN",
+      "description": "Goldman Sachs is extending its work-from-home guidance by another two weeks amid the wave of Covid-19 infections.",
+      "url": "https://www.cnn.com/2022/01/13/investing/goldman-sachs-work-from-home/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220113123911-restricted-goldman-sachs-new-york-offices-0104-super-tease.jpg",
+      "publishedAt": "2022-01-13T18:23:00Z",
+      "content": null
+    },
+    {
+      "source": {"id": "google-news", "name": "Google News"},
+      "author": null,
+      "title": "FAA bars auto-landings at more than 100 US airports starting 19 January in response to 5G - Flightglobal",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMijAFodHRwczovL3d3dy5mbGlnaHRnbG9iYWwuY29tL3NhZmV0eS9mYWEtYmFycy1hdXRvLWxhbmRpbmdzLWF0LW1vcmUtdGhhbi0xMDAtdXMtYWlycG9ydHMtc3RhcnRpbmctMTktamFudWFyeS1pbi1yZXNwb25zZS10by01Zy8xNDcxMjAuYXJ0aWNsZdIBAA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2022-01-13T18:20:29Z",
+      "content": null
+    },
+    {
+      "source": {"id": null, "name": "Seeking Alpha"},
+      "author": "Kim Khan",
+      "title": "Nasdaq, S&P 500 falls further as techs weaken; Dow Jones erases gains - Seeking Alpha",
+      "description": "Selling pressure continues as high-valuation stocks lose support and the broader market bumps up against a key resistance level.",
+      "url": "https://seekingalpha.com/news/3787771-nasdaq-sp-dow-jones-futures-drift-ahead-of-wholesale-inflation-data",
+      "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1264351333/medium_image_1264351333.jpg",
+      "publishedAt": "2022-01-13T17:55:00Z",
+      "content": "Mikhail Leonov/iStock via Getty Images"
+    },
+    {
+      "source": {"id": null, "name": "New York Times"},
+      "author": "Stacy Cowley",
+      "title": "Navient Reaches $1.85 Billion Deal Over Predatory Lending Claims - The New York Times",
+      "description": "The student loan servicer agreed to cancel $1.7 billion in private student loan debts for nearly 66,000 borrowers and to pay $95 million in restitution.",
+      "url": "https://www.nytimes.com/2022/01/13/business/navient-student-loans.html",
+      "urlToImage": "https://static01.nyt.com/images/2022/01/13/business/13navient-studentloans/merlin_188974725_32422dcb-f8a1-4e9f-89e4-5a3ed9c6591b-facebookJumbo.jpg",
+      "publishedAt": "2022-01-13T17:26:44Z",
+      "content": "Navient, which did not admit any fault in the settlement, said it did not act illegally.\r\nThe companys decision to resolve these matters, which were based on unfounded claims, allows us to avoid the … [+1382 chars]"
+    },
+    {
+      "source": {"id": "the-verge", "name": "The Verge"},
+      "author": "Mia Sato",
+      "title": "Gap is launching NFT hoodie art that unlocks physical clothing - The Verge",
+      "description": "Gap is the latest retailer to launch an NFT collection, which includes $415 tokens that come with a physical hoodie and digital art. The retailer is partnering with artist Brandon Sines, creator of the Frank Ape cartoon character.",
+      "url": "https://www.theverge.com/2022/1/13/22881943/gap-nft-hoodies-frank-ape",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/nszUa1v35l7jRez1LcclvTJbOnI=/0x115:1600x953/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23166242/gap_hoodie_nft_collection_frank_ape.jpeg",
+      "publishedAt": "2022-01-13T16:51:45Z",
+      "content": "Gap is the latest retailer to launch an NFT collection, which includes $415 tokens that come with a physical hoodie\r\nImage: Gap\r\nGap is selling NFTs, following other clothing retailers like Adidas, N… [+1832 chars]"
+    },
+    {
+      "source": {"id": "the-wall-street-journal", "name": "The Wall Street Journal"},
+      "author": "Orla McCaffrey",
+      "title": "Mortgage Rates Jump to Highest Level Since March 2020 - The Wall Street Journal",
+      "description": "Higher borrowing costs, combined with record-high prices, could push some buyers out of the market",
+      "url": "https://www.wsj.com/articles/mortgage-rates-jump-to-highest-level-since-march-2020-11642092479",
+      "urlToImage": "https://images.wsj.net/im-467374/social",
+      "publishedAt": "2022-01-13T16:48:00Z",
+      "content": "Mortgage rates have hit their highest level since March 2020, the month the coronavirus pandemic took hold in the U.S. and roiled markets.\r\nThe average rate for a 30-year fixed-rate loan was 3.45% fo… [+88 chars]"
+    },
+    {
+      "source": {"id": null, "name": "CNBC"},
+      "author": "Eric Rosenbaum",
+      "title": "Fed hikes are a certainty. It's the pace and end point that can rock markets: Rates expert - CNBC",
+      "description": "Priya Misra, global head of rates strategy at TD Securities, says markets know the Fed is going to raise rates but will remain on edge about the pace of central bank action.",
+      "url": "https://www.cnbc.com/2022/01/13/fed-hikes-are-certain-its-the-pace-that-matters-to-market-rate-expert.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106999552-1641917842271-106999552-16419175182022-01-11t161108z_579834756_rc24xr92fwt2_rtrmadp_0_usa-fed-senate-powell.jpg?v=1641917854",
+      "publishedAt": "2022-01-13T16:36:12Z",
+      "content": "The Federal Reserve is going to raise rates, and based on the latest inflation reading this week, the central bank is likely to start its rate hike cycle in March. The Fed has telegraphed the rate hi… [+3017 chars]"
+    },
+    {
+      "source": {"id": "the-wall-street-journal", "name": "The Wall Street Journal"},
+      "author": "Jennifer Maloney",
+      "title": "Monster Beverage Buys Owner of Craft Breweries Cigar City, Oskar Blues for $330 Million - The Wall Street Journal",
+      "description": "Energy-drink maker enters beer, hard-seltzer business with purchase of CANarchy Craft Brewery Collective",
+      "url": "https://www.wsj.com/articles/monster-jumps-into-booze-business-with-330-million-acquisition-of-canarchy-11642084938",
+      "urlToImage": "https://images.wsj.net/im-467234/social",
+      "publishedAt": "2022-01-13T16:32:00Z",
+      "content": "Monster Beverage Corp. has been mulling a move into booze for years. It finally took the plunge Thursday, becoming the latest big soft-drink company to try its hand at alcoholic beverages.\r\nMonster, … [+166 chars]"
+    },
+    {
+      "source": {"id": null, "name": "New York Times"},
+      "author": "Neil Vigdor",
+      "title": "F.D.A. to Stop Regulating French Dressing - The New York Times",
+      "description": "Since 1950, the federal government has defined French dressing and its composition. An industry group said that the standards were outdated and should end.",
+      "url": "https://www.nytimes.com/2022/01/13/us/french-dressing-fda.html",
+      "urlToImage": "https://static01.nyt.com/images/2022/01/12/lens/12xp-frenchdressing-photo01/12xp-frenchdressing-photo01-facebookJumbo.jpg",
+      "publishedAt": "2022-01-13T16:31:41Z",
+      "content": "In a 2017 survey conducted by the Association for Dressings &amp; Sauces, French dressing barely appeared on a list of favorite dressings. Ranch was the champ, with 40 percent of Americans embracing … [+1492 chars]"
+    },
+    {
+      "source": {"id": "the-wall-street-journal", "name": "The Wall Street Journal"},
+      "author": "Nick Timiraos",
+      "title": "Fed’s Brainard Says Reducing Inflation Is Top Priority - The Wall Street Journal",
+      "description": "President Biden’s choice for second-in-command at central bank appears at Senate confirmation hearing",
+      "url": "https://www.wsj.com/articles/feds-brainard-to-tell-congress-that-reducing-inflation-is-top-priority-11642069803",
+      "urlToImage": "https://images.wsj.net/im-467323/social",
+      "publishedAt": "2022-01-13T16:31:00Z",
+      "content": "Federal Reserve governor Lael Brainard, the White House nominee to serve as the central banks No. 2 official, told Congress that efforts to reduce inflation are the central banks most important task.… [+210 chars]"
+    },
+    {
+      "source": {"id": null, "name": "Fox Business"},
+      "author": "Lucas Manfredi",
+      "title": "Theranos' Elizabeth Holmes' sentencing date on tap - Fox Business",
+      "description": "Elizabeth Holmes, the disgraced founder of Theranos, will be sentenced in September after a jury found her guilty on four of 11 charges in a case of criminal fraud, according to a court filing.",
+      "url": "https://www.foxbusiness.com/lifestyle/theranos-elizabeth-holmes-sentencing",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/12/0/0/d4f6fe12-Elizabeth-Holmes.jpg?ve=1&tl=1",
+      "publishedAt": "2022-01-13T16:26:54Z",
+      "content": "Elizabeth Holmes, the disgraced founder of Theranos, will be sentenced on Sept. 26 in San Jose, California, after a jury found her guilty on four of 11 charges in a case of criminal fraud.\r\nELIZABETH… [+2998 chars]"
+    },
+    {
+      "source": {"id": "bloomberg", "name": "Bloomberg"},
+      "author": null,
+      "title": "Dollar Peak Bets See Funds Switching to Emerging Stocks, Gold - Bloomberg",
+      "description": null,
+      "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=900d8dbc-74a2-11ec-b080-56694a514770&url=L25ld3MvYXJ0aWNsZXMvMjAyMi0wMS0xMy9kb2xsYXItcGVhay1iZXRzLXNlZS1mdW5kcy1zd2l0Y2hpbmctdG8tZW1lcmdpbmctc3RvY2tzLWdvbGQ=",
+      "urlToImage": null,
+      "publishedAt": "2022-01-13T16:09:13Z",
+      "content": "To continue, please click the box below to let us know you're not a robot."
+    },
+    {
+      "source": {"id": "cnn", "name": "CNN"},
+      "author": "Chris Isidore and Allison Morrow, CNN Business",
+      "title": "Why no one has a quick fix for inflation — not even Joe Biden or Jerome Powell - CNN",
+      "description": "Inflation isn't just an economic headache — it's become a political blame game that will almost certainly define this year's midterm election campaigns.",
+      "url": "https://www.cnn.com/2022/01/13/economy/inflation-economy-biden-fed-covid/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220113091955-01-us-inflation-prices-0112-super-tease.jpg",
+      "publishedAt": "2022-01-13T15:57:00Z",
+      "content": null
+    },
+    {
+      "source": {"id": null, "name": "Investor's Business Daily"},
+      "author": "Investor's Business Daily",
+      "title": "Dow Jones Leads Mixed Market As Boeing Soars, This Top Chip Stock Breaks Out - Investor's Business Daily",
+      "description": "Stocks were mixed Thursday morning after early gains faded. The Dow Jones industrials held a 100-point gain as Boeing and Visa rallied.",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-leads-mixed-market-boeing-soars-top-chip-stock-breaks-out/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2020/03/stock-bull-bear-reflect-01-adobe.jpg",
+      "publishedAt": "2022-01-13T15:41:00Z",
+      "content": "Stocks were mixed Thursday morning after early gains faded. The Dow Jones Industrial Average held a 100-point gain as Boeing (BA) and Visa (V) rallied.\r\nXThe Nasdaq fell 0.3%, the Dow Jones industria… [+5197 chars]"
+    },
+    {
+      "source": {"id": null, "name": "Motley Fool"},
+      "author": "Lou Whiteman",
+      "title": "Why Virgin Galactic Stock Is Falling Today - Motley Fool",
+      "description": "The company is raising up to $500 million in a debt offering.",
+      "url": "https://www.fool.com/investing/2022/01/13/why-virgin-galactic-stock-is-falling-today/",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/661199/virgin-galactic-unity-with-transport-source-spce.jpg",
+      "publishedAt": "2022-01-13T15:36:42Z",
+      "content": "What happened\r\nShares of Virgin Galactic Holdings(NYSE:SPCE) fell more than 10% at the open on Thursday after the space tourism start-up announced plans to raise up to $500 million in new debt.\r\nSo w… [+2273 chars]"
+    },
+    {
+      "source": {"id": "the-verge", "name": "The Verge"},
+      "author": "Corin Faife",
+      "title": "White House hosts tech summit to discuss open-source security after Log4j - The Verge",
+      "description": "Tech companies including Google, Amazon, Facebook, IBM, and Microsoft will meet at the White House to discuss open-source software security in the wake of the major Log4j vulnerability.",
+      "url": "https://www.theverge.com/2022/1/13/22881813/white-house-tech-summit-apple-google-meta-amazon-open-source-security",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/5RJVsU-8QX-ZqMvOrkJLDksI8yU=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22706154/acastro_210708_4663_0001.jpg",
+      "publishedAt": "2022-01-13T15:36:41Z",
+      "content": "Google, Amazon, Facebook, and others will explore threat landscape for open-source dependencies \r\nIllustration by Alex Castro / The Verge\r\nThe White House will meet with leaders of major tech compani… [+2870 chars]"
+    },
+    {
+      "source": {"id": null, "name": "OilPrice.com"},
+      "author": "Charles Kennedy",
+      "title": "19-Year-Old Hacks into 25 Teslas Simultaneously - OilPrice.com",
+      "description": "A 19-year-old German IT student and hacker said in a series of tweets this week that he had managed to gain remote control over more than 25 Teslas in 13 different countries without the knowledge of their owners",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/19-Year-Old-Hacks-into-25-Teslas-Simultaneously.html",
+      "urlToImage": "https://d32r1sh890xpii.cloudfront.net/news/718x300/2022-01-13_vmtqrcpsqt.jpg",
+      "publishedAt": "2022-01-13T15:30:00Z",
+      "content": "The Biden administration is seeking…\r\nA combination of shrinking spare…\r\nBy Charles Kennedy - Jan 13, 2022, 9:30 AM CSTA 19-year-old German IT student and hacker said in a series of tweets this week … [+2181 chars]"
+    },
+    {
+      "source": {"id": null, "name": "CNBC"},
+      "author": "Anmar Frangoul",
+      "title": "'Green' fuels will cost the consumer — but we need to think long term, Maersk CEO says - CNBC",
+      "description": "Shipping is not unique in attempting to find more sustainable ways of powering operations.",
+      "url": "https://www.cnbc.com/2022/01/13/green-fuels-more-expensive-but-need-to-think-long-term-maersk-ceo.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107000577-1642077369496-gettyimages-1274998784-107391_mortenmaersk1.jpeg?v=1642081409",
+      "publishedAt": "2022-01-13T15:28:47Z",
+      "content": "The CEO of shipping giant Moller-Maersk admitted to CNBC Thursday that shifting to \"green\" fuels would come at a cost, but emphasized the importance of focusing on the bigger picture rather than shor… [+3500 chars]"
+    },
+    {
+      "source": {"id": "cnn", "name": "CNN"},
+      "author": null,
+      "title": "'It's insane': Gas station owner reveals what inflation is doing to his business - CNN",
+      "description": "Americans are struggling to keep up with rising prices as inflation grows at the fastest annual pace in almost 40 years. CNN's Vanessa Yurkevich reports.",
+      "url": "https://www.cnn.com/videos/business/2022/01/13/inflation-rising-prices-newday-yurkevich-vpx.cnnbusiness",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220113095139-gas-pump-nyc-super-tease.jpg",
+      "publishedAt": "2022-01-13T15:06:59Z",
+      "content": null
+    },
+    {
+      "source": {"id": null, "name": "Motorsport.com"},
+      "author": "David Malsher-Lopez",
+      "title": "Andretti Acquisition Corp. begins trading on NYSE - Motorsport.com",
+      "description": "Andretti Acquisition Corp., a special purpose acquisition company (SPAC), has begun trading on the New York Stock Exchange.",
+      "url": "https://www.motorsport.com/indycar/news/andretti-acquisition-corp-begins-trading-on-nyse/7245327/",
+      "urlToImage": "https://cdn-1.motorsport.com/images/amp/2Qzk8pAY/s6/michael-andretti-walkinshaw-an.jpg",
+      "publishedAt": "2022-01-13T15:06:25Z",
+      "content": "Andretti Autosport founder, CEO and chairman Michael Andretti serves as co-CEO of Andretti Acquisition along with his childhood friend Bill Sandbrook, who most recently was CEO of U.S. Concrete.\r\nAnd… [+2507 chars]"
+    }
+  ]
+}
